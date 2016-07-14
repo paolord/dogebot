@@ -1,0 +1,26 @@
+{
+  "name": "dogebot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paolord/dogebot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paolord/dogebot/issues"
+  },
+  "homepage": "https://github.com/paolord/dogebot#readme",
+  "dependencies": {
+    "moment": "^2.14.1",
+    "requestretry": "^1.9.0",
+    "slackbots": "^0.5.1",
+    "validator": "^5.4.0",
+    "xmlreader": "^0.2.3"
+  }
+}
